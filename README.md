@@ -1,2 +1,2 @@
-# DataScience
-For Data Science Related Exercise
+# Classification problems
+This repo is for classification problems in Data Science.
