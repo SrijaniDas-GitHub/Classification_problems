@@ -1,6 +1,6 @@
 Name,Problem Statement in brief,Category,Comments
-Customer_Behavior_Data.ipynb,Predict if customer buys a product given customer salary age and gender,Classification
-Diabetes_dataset.ipynb,Predict if a person has diabetes given glucose level blood pressure Insulin BMI age etc,Classification
+Customer_Behavior_Data.ipynb,Predict if customer buys a product given customer salary age and gender,Classification,NA
+Diabetes_dataset.ipynb,Predict if a person has diabetes given glucose level blood pressure Insulin BMI age etc,Classification,Na
 HR_Data_Analysis.ipynb,Predict if an employee leaves the company given performance rating job satisfaction age and much more.,Classification,EDA done in details
-Fish_Species_Prediction.ipynb,Predict species of a fish given lengh widht etc,Classification
+Fish_Species_Prediction.ipynb,Predict species of a fish given lengh widht etc,Classification,NA
 
