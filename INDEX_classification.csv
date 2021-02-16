@@ -3,4 +3,5 @@ Customer_Behavior_Data.ipynb,Predict if customer buys a product given customer s
 Diabetes_dataset.ipynb,Predict if a person has diabetes given glucose level blood pressure Insulin BMI age etc,Classification,Na
 HR_Data_Analysis.ipynb,Predict if an employee leaves the company given performance rating job satisfaction age and much more.,Classification,EDA done in details
 Fish_Species_Prediction.ipynb,Predict species of a fish given lengh widht etc,Classification,NA
+Lead Scoring Case Study, Predicting probability of a lead converting into Customer, Logistic Regression, NA
 
